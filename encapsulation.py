@@ -8,3 +8,7 @@ class myClass:
 myObj=myClass()
 print(myObj.x)
 myObj.display()  
+
+class myClass2:
+   def __method(self):
+     print("This is a private method")

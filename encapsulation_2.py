@@ -9,4 +9,3 @@ myObj=myClass2()
 myObj.public_method()  # This will work fine
 # myObj.__method()  # This will raise an AttributeError because __method is private
 
-
